@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languege/Java/Java Collection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b18b1003952d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "framework/Spark/Spark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dbf82191a378892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bebe91b114ee7085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bebe91b114ee7085",
+  "active": "c56413f4c9171d75",
   "lastOpenFiles": [
-    "languege/Java/Java.md",
+    "framework/Hadoop-Echo/haoop/hadoop.md",
     "README.md",
-    "languege/Python/Python.md",
+    "framework/Hadoop-Echo/haoop",
+    "framework/ELK/ELK.md",
+    "frameworkr/Spark/Spark.md",
+    "frameworkr/Spark",
+    "frameworkr",
+    "framework/Spring/Spring.md",
     "languege/Java/Java Collection.md",
+    "framework/ELK/ELK List.md",
+    "languege/Java/Java.md",
+    "languege/R/R.md",
+    "languege/Python/Python.md",
+    "languege/Scala/Scala.md",
     "img/Java/JavaCollection/ArrayList.png",
     "framework/Kafka/Kafka.md",
     "Data_Structure/Data Structure List.md",
@@ -198,28 +171,20 @@
     "Algorithm/Sorting/Tim Sort.md",
     "Algorithm/Sorting/Bubble Sort.md",
     "framework/Spark/Spark.md",
-    "framework/Spring/Spring.md",
     "Algorithm/Sorting/Merge Sort.md",
     "Algorithm/Sorting/Quick Sort.md",
     "Algorithm/Sorting",
     "framework/Hadoop-Echo",
     "framework/ELK/Kibana",
     "framework/ELK/Logstash",
-    "framework/ELK/Untitled.md",
     "framework/ELK/Elasticsearch",
     "framework/ELK",
-    "framework/data/Mapreduce",
-    "framework/data/Tez",
-    "framework/data",
     "DataBase/RDB/Common.md",
     "DataBase/Trino.md",
     "DataBase/Untitled.md",
     "DataBase/Nosql/Nosql.md",
     "DataBase/Hive/Hive.md",
     "DataBase/RDB/Mysql/Mysql.md",
-    "framework/Hadoop-Echo/Hadoop/Hadoop.md",
-    "languege/Scala/Scala.md",
-    "languege/R/R.md",
     "spark.canvas",
     "img/Java/JavaCollection/linkedList.png",
     "img/Java/JavaCollection/JavaCollection.svg"
