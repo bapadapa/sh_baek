@@ -1,0 +1,5 @@
+1. [[Selection Sort]]
+2. [[Bubble Sort]]
+3. [[Quick Sort]]
+4. [[Merge Sort]]
+5. [[Tim Sort]]
