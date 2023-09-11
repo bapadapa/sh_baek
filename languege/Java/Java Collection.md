@@ -3,7 +3,7 @@
 Java에서 데이터 관련 처리를 위한 인터페이스, 클래스의 집합(자료구조의 집합이라고 봐도 될 것 같다) (JDK 1.2부터 생겼다한다.)
 - 정확히 말하면 데이터를 저장하는 클래스들을 표준화한 설계(Framework).
 큰 덩어리로 보면 `Iterable`을 상속받은 것과 `Map`을 상속받은 것이 있다.
-![img](JavaCollection.svg)
+![img](/img/Java/JavaCollection/JavaCollection.svg)
 
 JCF의 구성도
 ## Itorable
@@ -15,12 +15,12 @@ Itorable을 상속받은 인터페이스
 ## List
 순서가 존재하는 데이터의 집합
 ### ArrayList
-![linkedList](ArrayList.png)
+![linkedList](/img/Java/JavaCollection/ArrayList.png)
 - 가변길이를 가진 선형리스트
 
 - 배열을 기반으로 사용하고, 만약 기본적으로 설정한 길이를 넘으면 내부적으로 정한 DEFAULT_CAPACITY 길이만큼 늘려준다. (그림은 너무 길어져서 1개만 추가함)
 ### LinkedList
-![linkedList](linkedList.png)
+![linkedList](/img/Java/JavaCollection/linkedList.png)
 - 앞,뒤에있는 노드의 위치값을 기억하여 값을 찾음
 - 삭제 및 제거시 위치값을 변경시켜줌
 - 위치값을 기억함으로 `Random Access`가 어렵다
