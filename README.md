@@ -1,12 +1,10 @@
-# sh_baek
- Study SC
+# obsidian 을 이용하여 작성
+## Algorithm
 
-# Algorithm
+## DataStructure
 
-# DataStructure
+## DataBase
+## Framework
 
-# DataBase
-# Framework
-
-# Languege
+## Languege
 
