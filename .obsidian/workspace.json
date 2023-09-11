@@ -11,12 +11,8 @@
             "id": "c56413f4c9171d75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languege/README.md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languege/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languege/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "languege/README.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "c56413f4c9171d75",
   "lastOpenFiles": [
-    "README.md",
     "languege/README.md.md",
+    "README.md",
     "DataBase/Trino.md",
     "DataBase/RDB/Mysql/Mysql.md",
     "DataBase/In-Memory_DB/Redis/Redis.md",
@@ -157,8 +149,8 @@
     "framework/Hadoop-Echo/haoop/hadoop.md",
     "framework/Hadoop-Echo/haoop",
     "framework/ELK/ELK.md",
-    "frameworkr/Spark/Spark.md",
-    "frameworkr/Spark",
+    "framework/Spark 1/Spark.md",
+    "framework/Spark 1",
     "frameworkr",
     "framework/Spring/Spring.md",
     "languege/Java/Java Collection.md",
