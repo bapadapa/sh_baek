@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c56413f4c9171d75",
+  "active": "540f2db087ffc498",
   "lastOpenFiles": [
+    "VM/Docker",
+    "VM",
     "languege/README.md.md",
     "README.md",
     "DataBase/Trino.md",
@@ -183,7 +185,6 @@
     "framework/ELK/Kibana",
     "framework/ELK/Logstash",
     "framework/ELK/Elasticsearch",
-    "framework/ELK",
     "spark.canvas",
     "img/Java/JavaCollection/linkedList.png",
     "img/Java/JavaCollection/JavaCollection.svg"
