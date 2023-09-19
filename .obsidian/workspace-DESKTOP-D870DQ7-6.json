@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed17fe69d77e8aec",
+        "id": "e7825c979e37d359",
         "type": "tabs",
         "children": [
           {
-            "id": "2772ac17a1acbdab",
+            "id": "c56413f4c9171d75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/Trino/Trino.md",
+                "file": "framework/Spring/JWT/JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/Trino/Trino.md",
+                "file": "framework/Spring/JWT/JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/Trino/Trino.md",
+                "file": "framework/Spring/JWT/JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/Trino/Trino.md"
+                "file": "framework/Spring/JWT/JWT.md"
               }
             }
           },
@@ -157,26 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2772ac17a1acbdab",
+  "active": "c56413f4c9171d75",
   "lastOpenFiles": [
-    "DataBase/RDB/Mysql/Mysql.md",
-    "DataBase/Trino/Trino.md",
-    "DataBase/Trino/img/Pasted image 20230919160638.png",
-    "DataBase/Trino/img",
-    "DataBase/Trino",
-    "Desighn_Pattern/Singleton.md",
-    "SC",
-    "무제 폴더",
-    "Desighn_Pattern/Desighn_Pattern.md",
-    "Desighn_Pattern",
-    "Untitled Diagram 1.svg",
-    "Untitled Diagram.svg",
-    "VM/css.md",
-    "framework/Hadoop-Echo/Hadoop/img/Pasted image 20230918233509.png",
-    "framework/Hadoop-Echo/Hadoop/img",
     "framework/Spring/JWT/JWT.md",
     "framework/Spring/JWT",
-    "framework/Spring/jwt",
     "Code_Convention/new_line/new_line.md",
     "languege/Java/Java_Collection/Java_Collection.md",
     "framework/Zoookeeper/Error/Zookeeper_Init_Error.md",
@@ -188,10 +172,18 @@
     "Code_Convention/new_line/Untitled.md",
     "framework/Zoookeeper/Error/README.md",
     "Code_Convention/README.md",
+    "Code_Convention/new_line",
     "framework/README.md",
+    "DataBase/Trino.md",
     "Data_Structure/Data Structure List.md",
+    "Code_Convention",
     "languege/Java/SOLID/SOLID.md",
+    "languege/Java/SOLID",
+    "SOLID",
+    "Java_Collection",
     "languege/Java/Java_Collection/Java Collection.md",
+    "languege/Java/Java_Collection",
+    "img/Java/SOLID",
     "README.md",
     "Error/README.md",
     "languege/README.md",
@@ -199,6 +191,10 @@
     "Erorr/Init.md",
     "zoookeeper/Zookeeper.md",
     "framework/zookeeper/Zookeeper.md",
+    "framework/Spark/Spark.md",
+    "DataBase/RDB/Mysql/Mysql.md",
+    "DataBase/In-Memory_DB/Redis/Redis.md",
+    "DataBase/In-Memory.md",
     "img/Java/JavaCollection/ArrayList.png",
     "spark.canvas",
     "img/Java/JavaCollection/linkedList.png",
